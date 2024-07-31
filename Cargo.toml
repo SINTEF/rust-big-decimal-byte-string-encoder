@@ -7,7 +7,7 @@ license = "Apache-2.0"
 documentation = "https://docs.rs/big-decimal-byte-string-encoder"
 authors = ["Antoine Pultier <antoine.pultier@sintef.no>"]
 repository = "https://github.com/SINTEF/rust-big-decimal-byte-string-encoder"
-keywords = ["bigquery", "numeric", "encoding", "google", "gcp", "bigdecimal"]
+keywords = ["bigquery", "numeric", "encoding", "google", "bigdecimal"]
 categories = ["encoding", "database"]
 include = ["README.md", "LICENSE", "Cargo.toml", "tests/*", "src/*"]
 
